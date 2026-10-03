@@ -1,0 +1,8 @@
+node_modules
+artifacts
+cache
+.env
+server/.env
+frontend/.env
+server/uploads
+frontend/dist
